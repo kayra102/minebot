@@ -1,10 +1,10 @@
 {
     "options": {
-        "IP": "Write the server ip here.",
-        "username": "Write the accounts username or email here.",
+        "IP": "ewaeawewaeyyyy.aternos.me",
+        "username": "bot3314",
         "password": "Write the accounts password here.",
         "authentication": "Write the accounts auth here, either mojang or microsoft.",
-        "version": "Write the Minecraft version the bot should use.",
+        "version": "1.12.2.",
         "regexMSG": "default"
     },
 
