@@ -29,12 +29,12 @@ function deleteScripts() {
 // Create the bot.
 function createBot() {
     const bot = mineflayer.createBot({
-        host: address.includes(":") ? address.slice(0, address.indexOf(":")) : address,
-        port: address.includes(":") ? parseInt(address.slice(address.indexOf(":")+1)) : undefined,
-        username: config.options.username,
+        host: ewaeawewaeyyyy.aternos.me
+        port: 51409
+        username: bot324
         password: config.options.password,
         auth: config.options.authentication,
-        version: config.options.version
+        version: 1.12.2
     });
 
     bot.loadPlugin(deathEvent);
